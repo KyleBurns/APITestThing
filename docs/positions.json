@@ -24,6 +24,10 @@
         "quantity": 50
       },
       {
+        "assetId": "S4",
+        "quantity": 50
+      },
+      {
         "assetId": "S5",
         "quantity": 50
       }
