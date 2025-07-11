@@ -15,5 +15,19 @@
         "quantity": 100
       }
     ]
+  },
+  {
+    "accountId": "E2",
+    "positions": [
+      {
+        "assetId": "S2",
+        "quantity": 50
+      },
+      {
+        "assetId": "S5",
+        "quantity": 50
+      }
+    ]
   }
+
 ]

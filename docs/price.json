@@ -14,5 +14,9 @@
   {
     "assetId": "S4",
     "price": 15.5
+  },
+  {
+    "assetId": "S5",
+    "price": 20.3
   }
 ]
